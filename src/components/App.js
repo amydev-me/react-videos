@@ -3,7 +3,7 @@ import SearchBar from './SearchBar';
 import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
 import axios from 'axios';
-const KEY='AIzaSyAL0PXO8OY9556hk5EpIVeNENrjgYXKt34';
+const KEY='KEY';
 
 class App extends React.Component{
 
