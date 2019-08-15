@@ -10,7 +10,7 @@ const VideoList = ({ videos, onVideoSelect }) => {
                 key={_key}
                 onVideoSelect={onVideoSelect} 
                 video={video}
-                />
+            />
         );
         
     });
